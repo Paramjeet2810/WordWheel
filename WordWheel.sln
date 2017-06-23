@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordWheel.Plugins", "WordWheel.Plugins.csproj", "{0073F6C7-0890-F7F2-34A9-98470AF06E3E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordWheel", "WordWheel.csproj", "{49210EAA-9B4B-326E-55A8-5A0908BF2447}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordWheel.Editor", "WordWheel.Editor.csproj", "{673EAE62-7F83-1112-66AB-B91AFD9B2C9E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0073F6C7-0890-F7F2-34A9-98470AF06E3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0073F6C7-0890-F7F2-34A9-98470AF06E3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0073F6C7-0890-F7F2-34A9-98470AF06E3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0073F6C7-0890-F7F2-34A9-98470AF06E3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49210EAA-9B4B-326E-55A8-5A0908BF2447}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49210EAA-9B4B-326E-55A8-5A0908BF2447}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49210EAA-9B4B-326E-55A8-5A0908BF2447}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49210EAA-9B4B-326E-55A8-5A0908BF2447}.Release|Any CPU.Build.0 = Release|Any CPU
+		{673EAE62-7F83-1112-66AB-B91AFD9B2C9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{673EAE62-7F83-1112-66AB-B91AFD9B2C9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{673EAE62-7F83-1112-66AB-B91AFD9B2C9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{673EAE62-7F83-1112-66AB-B91AFD9B2C9E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
